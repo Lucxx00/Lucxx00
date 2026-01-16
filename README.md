@@ -83,8 +83,12 @@ I love learning, experimenting, and improving my technical skills every day.
 
 ## 📫 Contact 
 
-![Discord](https://img.shields.io/badge/Discord-Lucxx00-%235865F2?style=for-the-badge&logo=discord&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Lucxx00-black?style=for-the-badge&logo=github)
+<p align="left">
+  <a href="https://discord.gg/" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+</p>
+
 
 ---
 
