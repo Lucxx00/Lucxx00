@@ -15,12 +15,15 @@ I love learning, experimenting, and improving my technical skills every day.
 ## 🛠️ Tech Stack (What I use & learn)
 
 <p align="center">
-  <!-- Operating Systems & Shells -->
-  <img src="https://api.iconify.design/skill-icons/arch-dark.svg?height=36" alt="Archlinux" />
-  <img src="https://api.iconify.design/skill-icons/kali-dark.svg?height=36" alt="Kalilinux" />
+  <!-- OS & Shells -->
   <img src="https://api.iconify.design/skill-icons/windows-dark.svg?height=36" alt="Windows" />
-  <img src="https://api.iconify.design/skill-icons/bash-dark.svg?height=36" alt="Bash" />
   <img src="https://api.iconify.design/skill-icons/powershell-dark.svg?height=36" alt="Powershell" />
+</p>
+
+<p align="center">
+  <!-- Framework / Languages -->
+  <img src="https://api.iconify.design/skill-icons/dotnet.svg?height=36" alt=".NET" />
+  <img src="https://api.iconify.design/skill-icons/python-dark.svg?height=36" alt="Python" />
 </p>
 
 <p align="center">
@@ -39,27 +42,16 @@ I love learning, experimenting, and improving my technical skills every day.
 
 <p align="center">
   <!-- Programming Languages -->
-  <img src="https://api.iconify.design/skill-icons/cpp.svg?height=36" alt="Cpp" />
+  <img src="https://api.iconify.design/skill-icons/cpp.svg?height=36" alt="C++" />
+  <img src="https://api.iconify.design/skill-icons/c.svg?height=36" alt="C" />
   <img src="https://api.iconify.design/skill-icons/cs.svg?height=36" alt="C#" />
-  <img src="https://api.iconify.design/skill-icons/python-dark.svg?height=36" alt="Python" />
-  <img src="https://api.iconify.design/skill-icons/typescript.svg?height=36" alt="Typescript" />
 </p>
 
 <p align="center">
-  <!-- Web & Databases -->
-  <img src="https://api.iconify.design/skill-icons/html.svg?height=36" alt="Html" />
-  <img src="https://api.iconify.design/skill-icons/css.svg?height=36" alt="Css" />
-  <img src="https://api.iconify.design/skill-icons/javascript.svg?height=36" alt="Javascript" />
-  <img src="https://api.iconify.design/skill-icons/mysql-dark.svg?height=36" alt="Mysql" />
+  <!-- Web / Misc -->
+  <img src="https://api.iconify.design/skill-icons/typescript.svg?height=36" alt="TypeScript" />
 </p>
 
-<p align="center">
-  <!-- Tools & Platforms -->
-  <img src="https://api.iconify.design/skill-icons/npm-dark.svg?height=36" alt="Npm" />
-  <img src="https://api.iconify.design/skill-icons/docker.svg?height=36" alt="Docker" />
-  <img src="https://api.iconify.design/skill-icons/aws-dark.svg?height=36" alt="Aws" />
-  <img src="https://api.iconify.design/skill-icons/postman.svg?height=36" alt="Postman" />
-</p>
 
 
 ---
