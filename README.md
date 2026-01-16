@@ -12,17 +12,13 @@ I love learning, experimenting, and improving my technical skills every day.
 
 ---
 
-## 🛠️ Tech Stack (What I use & learn)
+## 🛠️ Tech Stack 
 
 <p align="center">
   <!-- OS & Shells -->
   <img src="https://api.iconify.design/skill-icons/windows-dark.svg?height=36" alt="Windows" />
   <img src="https://api.iconify.design/skill-icons/powershell-dark.svg?height=36" alt="Powershell" />
-</p>
-
-<p align="center">
-  <!-- Framework / Languages -->
-  <img src="https://api.iconify.design/skill-icons/dotnet.svg?height=36" alt=".NET" />
+  <img src="https://api.iconify.design/skill-icons/dotnet.svg?height=36" alt="Dotnet" />
   <img src="https://api.iconify.design/skill-icons/python-dark.svg?height=36" alt="Python" />
 </p>
 
@@ -49,6 +45,9 @@ I love learning, experimenting, and improving my technical skills every day.
 
 <p align="center">
   <!-- Web / Misc -->
+  <img src="https://api.iconify.design/skill-icons/html.svg?height=36" alt="Html" />
+  <img src="https://api.iconify.design/skill-icons/css.svg?height=36" alt="Css" />
+  <img src="https://api.iconify.design/skill-icons/javascript.svg?height=36" alt="Javascript" />
   <img src="https://api.iconify.design/skill-icons/typescript.svg?height=36" alt="TypeScript" />
 </p>
 
@@ -75,21 +74,21 @@ I love learning, experimenting, and improving my technical skills every day.
 
 ---
 
-## 🚀 Projects (you can edit this later)
+## 🚀 Projects 
 
 🔹 **App Project** — *In progress (C# → C++)*  
 🔹 **TypeScript Bot** — *In development*  
 
 ---
 
-## 📫 Contact (optional — puoi cambiare)
+## 📫 Contact 
 
 ![Discord](https://img.shields.io/badge/Discord-Lucxx00-%235865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-Lucxx00-black?style=for-the-badge&logo=github)
 
 ---
 
-## 📊 GitHub Stats (opzionale ma molto “pro”)
+## 📊 GitHub Stats 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lucxx00&show_icons=true&theme=dark)
 
