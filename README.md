@@ -1,26 +1,26 @@
-Who I Am
-👨‍💻 In my spare time, create stupid programs🤪
+# 👋 Hey there, I'm **Lucxx00**
 
-💡 Lots of imagination, creative and visionary
+💻 **Developer in Progress | Tech & Gaming Enthusiast**
 
-📚 Eager to learn a lot, passionate and determined
+🔹 Building an app in **C# → C++**  
+🤖 Developing a bot in **TypeScript**  
+🛠 Passionate about **PC hardware, software, and gaming projects**  
 
-🎯 Focus: 17 years old, dynamic and energetic
+---
 
-🌍 I live in Italy
+### 🚀 What I'm learning
+- C#
+- C++
+- TypeScript
+- PC building & optimization
 
-🎮 In my free time, I enjoy playing with my friends
+---
 
-😡 I hate a skidlle kid
+### 🎯 What I aim for
+- Create useful and cool applications  
+- Improve every day  
+- Work on interesting tech projects  
 
-Goals
-🎓 Certifications to achieve:
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-OSCP(OSED)
-OSCP(OSEE)
-OSCP(OSEP)
-💼 I would like to work with:
-
-Amazon
-Microsoft
-Google
