@@ -84,7 +84,7 @@ I love learning, experimenting, and improving my technical skills every day.
 ## 📫 Contact 
 
 <p align="left">
-  <a href="1069634651771117598" target="_blank">
+  <a href="https://discord.gg/" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 </p>
