@@ -2,7 +2,9 @@
 
 🚀 **Junior Developer | App & Bot Developer | Tech Enthusiast**
 
-I'm currently developing an application starting with **C#**, with plans to continue in **C++**.  
+I'm currently studying and exploring multiple programming languages to dive deeper into the world of computer science.  
+
+I'm developing an application starting with **C#**, with plans to continue in **C++**.  
 I'm also building a **bot in TypeScript**.  
 
 I'm passionate about **PC hardware, software, and gaming projects**.  
