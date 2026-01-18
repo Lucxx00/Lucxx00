@@ -45,8 +45,6 @@ I love learning, experimenting, and improving my technical skills every day.
 
 <p align="center">
   <!-- Web / Misc -->
-  <img src="https://api.iconify.design/skill-icons/html.svg?height=36" alt="Html" />
-  <img src="https://api.iconify.design/skill-icons/css.svg?height=36" alt="Css" />
   <img src="https://api.iconify.design/skill-icons/javascript.svg?height=36" alt="Javascript" />
   <img src="https://api.iconify.design/skill-icons/typescript.svg?height=36" alt="TypeScript" />
 </p>
