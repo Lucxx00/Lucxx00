@@ -1,99 +1,72 @@
-# 👋 Hi, I'm **Lucxx00**
+<div align="center">
+  <img src="./assets/banner.svg" alt="LUCXX00 — Apps, Developer Tools and Web Platforms" width="100%" />
 
-🚀 **Junior Developer | App & Bot Developer | Tech Enthusiast**
+  <p><img alt="Typing animation" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=17&amp;duration=3300&amp;pause=900&amp;color=70DDE5&amp;center=true&amp;vCenter=true&amp;width=690&amp;lines=Mobile+apps+%E2%80%A2+Web+platforms+%E2%80%A2+Developer+tools;From+idea+to+production." /></p>
 
-I'm currently studying and exploring multiple programming languages to dive deeper into the world of computer science.  
+  <h3>Hey, I'm Lucxx00 👋</h3>
+  <p>I design and build mobile apps, web platforms, and performance-focused developer tools.<br/>
+  I care about clean interfaces, reliable architecture, and turning ideas into working software.</p>
 
-I'm developing an application starting with **C#**, with plans to continue in **C++**.  
-I'm also building a **bot in TypeScript**.  
-
-I'm passionate about **PC hardware, software, and gaming projects**.  
-I love learning, experimenting, and improving my technical skills every day.
-
----
-
-## 🛠️ Tech Stack 
-
-<p align="center">
-  <!-- OS & Shells -->
-  <img src="https://api.iconify.design/skill-icons/windows-dark.svg?height=36" alt="Windows" />
-  <img src="https://api.iconify.design/skill-icons/powershell-dark.svg?height=36" alt="Powershell" />
-  <img src="https://api.iconify.design/skill-icons/dotnet.svg?height=36" alt="Dotnet" />
-  <img src="https://api.iconify.design/skill-icons/python-dark.svg?height=36" alt="Python" />
-</p>
-
-<p align="center">
-  <!-- IDEs & Editors -->
-  <img src="https://api.iconify.design/skill-icons/vscode-dark.svg?height=36" alt="Vscode" />
-  <img src="https://api.iconify.design/skill-icons/visualstudio-dark.svg?height=36" alt="VisualStudio" />
-  <img src="https://api.iconify.design/skill-icons/neovim-dark.svg?height=36" alt="Neovim" />
-</p>
-
-<p align="center">
-  <!-- Discord & Bots -->
-  <img src="https://api.iconify.design/skill-icons/discord.svg?height=36" alt="Discord" />
-  <img src="https://api.iconify.design/skill-icons/discordbots.svg?height=36" alt="Discordbots" />
-  <img src="https://api.iconify.design/skill-icons/discordjs-dark.svg?height=36" alt="Discordjs" />
-</p>
-
-<p align="center">
-  <!-- Programming Languages -->
-  <img src="https://api.iconify.design/skill-icons/cpp.svg?height=36" alt="C++" />
-  <img src="https://api.iconify.design/skill-icons/c.svg?height=36" alt="C" />
-  <img src="https://api.iconify.design/skill-icons/cs.svg?height=36" alt="C#" />
-</p>
-
-<p align="center">
-  <!-- Web / Misc -->
-  <img src="https://api.iconify.design/skill-icons/javascript.svg?height=36" alt="Javascript" />
-  <img src="https://api.iconify.design/skill-icons/typescript.svg?height=36" alt="TypeScript" />
-</p>
-
-
+  <a href="https://github.com/Lucxx00"><img alt="GitHub profile" src="https://img.shields.io/badge/GitHub-@Lucxx00-171b2e?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a>
+  <img alt="Currently building" src="https://img.shields.io/badge/Status-Building%20new%20products-16a6a2?style=for-the-badge" />
+</div>
 
 ---
 
-## 💻 About Me
+### ⚡ What I build
 
-- 🔹 Building an app in **C# → C++**
-- 🤖 Developing a **TypeScript bot**
-- 🖥️ Passionate about **PC hardware & software**
-- 🎮 Interested in **gaming and tech projects**
-- 📚 Always learning new technologies
+- **Mobile products** — cross-platform app experiences, training workflows, and backend integrations.
+- **Developer tools** — Windows utilities, system tooling, and performance-focused software.
+- **Web platforms** — responsive products, APIs, deployment pipelines, and automation.
 
----
+### 🚀 Selected work
 
-## 🎯 Goals
+| Project | Focus | Stage |
+| --- | --- | --- |
+| **REPRYX** | Fitness and coaching mobile app focused on intuitive UX and reliable training flows | In development |
+| **Innovatech Hub** | Windows tools for productivity, gaming performance, and system management | In development |
+| **SitoLab AI** | AI-assisted website creation platform and supporting infrastructure | In development |
+| **Web experiences** | Modern client websites, e-commerce, responsive interfaces, and integrations | Selected projects |
 
-- Become a stronger software developer  
-- Build advanced applications and bots  
-- Work on interesting tech and gaming projects  
-- Contribute to open-source in the future  
+> Some projects are private or not yet released. Public demos and technical case studies will be linked here when available.
 
----
+### 🧰 Tech stack
 
-## 🚀 Projects 
+**Languages**
 
-🔹 **App Project** — *In progress (C# → C++)*  
-🔹 **TypeScript Bot** — *In development*  
+![TypeScript](https://img.shields.io/badge/TypeScript-172134?style=flat-square&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-172134?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![C%23](https://img.shields.io/badge/C%23-172134?style=flat-square&logo=csharp&logoColor=9B6AD4)
+![C++](https://img.shields.io/badge/C++-172134?style=flat-square&logo=cplusplus&logoColor=77B5FE)
+![Python](https://img.shields.io/badge/Python-172134?style=flat-square&logo=python&logoColor=FFD43B)
 
----
+**Apps & web**
 
-## 📫 Contact 
+![React](https://img.shields.io/badge/React-172134?style=flat-square&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-172134?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-172134?style=flat-square&logo=expo&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-172134?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-172134?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
 
-<p align="left">
-  <a href="https://discord.gg/" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-</p>
+**Infrastructure & data**
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-172134?style=flat-square&logo=postgresql&logoColor=6F9BD1)
+![Redis](https://img.shields.io/badge/Redis-172134?style=flat-square&logo=redis&logoColor=FF5A55)
+![Docker](https://img.shields.io/badge/Docker-172134?style=flat-square&logo=docker&logoColor=2496ED)
+![Linux](https://img.shields.io/badge/Linux-172134?style=flat-square&logo=linux&logoColor=E5CE69)
+![Git](https://img.shields.io/badge/Git-172134?style=flat-square&logo=git&logoColor=F05032)
 
----
+### 🎯 Currently focused on
 
-## 📊 GitHub Stats 
+```text
+> shipping polished products
+> improving UI/UX and performance
+> automating development & deployment
+> learning by building real things
+```
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lucxx00&show_icons=true&theme=dark)
+### 📬 Connect
 
-## 🔥 Most Used Languages
+Want to explore the work, share feedback, or collaborate? Find me on **[GitHub](https://github.com/Lucxx00)**.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucxx00&layout=compact&theme=dark)
+<sub>Built with care — not just another badge wall.</sub>
