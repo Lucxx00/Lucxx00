@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="370" viewBox="0 0 1200 370" role="img" aria-label="Lucxx00 — Developer building apps, tools and web platforms">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#090d17"/><stop offset=".55" stop-color="#10192d"/><stop offset="1" stop-color="#14102b"/></linearGradient>
+    <linearGradient id="neon" x1="0" x2="1" y1="0" y2="0"><stop offset="0" stop-color="#62e7df"/><stop offset=".55" stop-color="#6aa8ff"/><stop offset="1" stop-color="#bb8aff"/></linearGradient>
+    <linearGradient id="panel" x1="0" x2="0" y1="0" y2="1"><stop offset="0" stop-color="#172338" stop-opacity=".97"/><stop offset="1" stop-color="#0f182b" stop-opacity=".97"/></linearGradient>
+    <radialGradient id="glow"><stop offset="0" stop-color="#4376f8" stop-opacity=".28"/><stop offset="1" stop-color="#4376f8" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#90b6e5" stroke-opacity=".07" stroke-width="1"/></pattern>
+    <clipPath id="clip"><rect width="1200" height="370" rx="20"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="370" fill="url(#bg)"/>
+    <rect width="1200" height="370" fill="url(#grid)"/>
+    <circle cx="1000" cy="140" r="330" fill="url(#glow)"/>
+    <path d="M0 0 H1200" stroke="url(#neon)" stroke-width="5"/>
+    <circle cx="1075" cy="52" r="195" fill="none" stroke="#7d83fa" stroke-opacity=".16" stroke-width="1"/>
+    <circle cx="1075" cy="52" r="262" fill="none" stroke="#7d83fa" stroke-opacity=".12" stroke-width="1"/>
+    <g font-family="Arial, Helvetica, sans-serif">
+      <g transform="translate(68 55)">
+        <rect x="0" y="0" width="128" height="25" rx="7" fill="#162f3a" stroke="#2b7c88" stroke-width="1"/>
+        <circle cx="14" cy="13" r="4" fill="#63e7db"/>
+        <text x="27" y="17" fill="#9debe7" font-size="12" font-weight="700" letter-spacing="1.1">BUILDING NOW</text>
+        <text x="-4" y="115" fill="#f4f7ff" font-size="81" font-weight="800" letter-spacing="-3.2">LUCXX</text>
+        <text x="293" y="115" fill="url(#neon)" font-size="81" font-weight="800" letter-spacing="-3.2">00</text>
+        <rect x="0" y="132" width="459" height="4" rx="2" fill="url(#neon)"/>
+        <text x="0" y="179" fill="#d2deef" font-size="24" font-weight="600">Apps  /  Developer Tools  /  Web Platforms</text>
+        <text x="0" y="216" fill="#95a8c8" font-size="17">Engineering useful software, from idea to deployment.</text>
+        <text x="0" y="267" fill="#73d9df" font-size="13" letter-spacing="2" font-weight="700">CODE  ·  BUILD  ·  SHIP</text>
+      </g>
+      <g transform="translate(765 65)">
+        <rect width="374" height="236" rx="14" fill="url(#panel)" stroke="#5474b4" stroke-opacity=".55" stroke-width="1.4"/>
+        <rect width="374" height="39" rx="14" fill="#1b2841"/>
+        <rect y="24" width="374" height="15" fill="#1b2841"/>
+        <path d="M0 39H374" stroke="#47628f" stroke-opacity=".52"/>
+        <circle cx="24" cy="20" r="5" fill="#ff688c"/><circle cx="43" cy="20" r="5" fill="#efc66c"/><circle cx="62" cy="20" r="5" fill="#63dab6"/>
+        <text x="187" y="25" font-family="monospace" fill="#91a7c7" text-anchor="middle" font-size="12">lucxx00 / workspace</text>
+        <g font-family="monospace" font-size="16">
+          <text x="25" y="82" fill="#61dfd2">❯</text><text x="47" y="82" fill="#d6e4ff">whoami</text>
+          <text x="25" y="113" fill="#b0a6ff">developer</text><text x="131" y="113" fill="#8197b6">// builder</text>
+          <text x="25" y="151" fill="#61dfd2">❯</text><text x="47" y="151" fill="#d6e4ff">focus --now</text>
+          <text x="25" y="183" fill="#e2eeff">mobile · web · systems</text>
+          <text x="25" y="211" fill="#61dfd2">❯</text><rect x="47" y="199" width="10" height="17" rx="1" fill="#68e9df"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
